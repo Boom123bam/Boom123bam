@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">I am from Hong Kong</h3>
 
+### About me
+- From Hong Kong
+
+- Novice full stack developer
+
+- Likes frontend development
+
+- Likes arduino and 3d printing
+
+#### What i'm up to
 - 🔭 I’m currently working on **A Chess app**
 
 - 🌱 I’m currently learning **Typescript**
