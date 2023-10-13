@@ -10,7 +10,7 @@
 - Likes arduino and 3d printing
 
 #### What i'm up to
-- 🔭 I’m currently working on **A Chess app**
+- 🔭 I’m currently working on **ResPawn (A Chess puzzles app)**
 
 - 🌱 I’m currently learning **Typescript**
 
