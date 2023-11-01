@@ -12,7 +12,7 @@
 #### What i'm up to
 - 🔭 I’m currently working on **ResPawn (A Chess puzzles app)**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **GLSL** and **Typescript**
 
 #### Links
 - [Portfolio](https://boom123bam.github.io/minimal-portfolio/)
