@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
-### About me
-- From Hong Kong
+#### What I like
+- 🌐 Web
 
-- Novice full stack developer
+- 🔥 Shaders
 
-- Likes frontend development
+- 🎨 Design
 
-- Likes arduino and 3d printing
+- 🫵 You
 
-#### What i'm up to
-- 🔭 I’m currently working on **ResPawn (A Chess puzzles app)**
+#### What i'm doing
+- 🔭 Building web apps to learn stuff
 
-- 🌱 I’m currently learning **GLSL** and **Typescript**
+#### Learning
+- 🌱 GLSL
 
-#### Links
-- [Portfolio](https://boom123bam.github.io/minimal-portfolio/)
+- 🟦 Typescript
 
 
 <h3 align="left">Languages and Tools:</h3>
