@@ -10,12 +10,12 @@
 - 🫵 You
 
 #### What i'm doing
-- 🔭 Building web apps to learn stuff
+- 🔭 Learning Low Level programming
 
 #### Learning
-- 🌱 GLSL
+- C
 
-- 🟦 Typescript
+- Three.js
 
 
 <h3 align="left">Languages and Tools:</h3>
