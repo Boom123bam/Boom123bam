@@ -13,9 +13,9 @@
 - 🔭 Learning Low Level programming
 
 #### Learning
-- C
+- Go
 
-- Three.js
+- React Native
 
 
 <h3 align="left">Languages and Tools:</h3>
