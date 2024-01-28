@@ -10,7 +10,8 @@
 - 🫵 You
 
 #### What i'm doing
-- 🔭 Learning Low Level programming
+- 🔭 Learning an enjoying Low Level programming
+- 📱 Building an app in React Native
 
 #### Learning
 - Go
