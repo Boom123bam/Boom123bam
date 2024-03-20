@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
 #### What I like
-- 🌐 Web
+- 🧑‍💻 Coding
 
-- 🔥 Shaders
+- 🖍️ Drawing
 
 - 🎨 Design
 
 - 🫵 You
 
 #### What i'm doing
-- 🔭 Learning an enjoying Low Level programming
-- 📱 Building an app in React Native
+- 📱 Building web apps
+- 🔭 Building a compiler in Go
 
 #### Learning
 - Go
-
-- React Native
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +24,5 @@
 
 
 <p align="left">
-<a href="https://codepen.io/boom123bam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="progamerr" height="30" width="40" /></a>
+<a href="https://codepen.io/boom123bam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boom123bam" height="30" width="40" /></a>
 </p>
